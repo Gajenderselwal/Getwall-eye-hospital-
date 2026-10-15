@@ -1,0 +1,6 @@
+{
+  "name": "GetWell Eye Hospital Bikaner",
+  "description": "Professional eye care, cataract evaluation, glaucoma screening, and appointment booking at GetWell Eye Hospital, Patel Nagar, Bikaner, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

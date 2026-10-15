@@ -1,0 +1,174 @@
+{
+  "hospitalInfo": {
+    "name": "GetWell Eye Hospital",
+    "tagline": "Expert Eye Care, Closer to You",
+    "address": "New Shivbari Road, near S.K. Medicose, Patel Nagar, Bikaner, Rajasthan 334003, India",
+    "city": "Bikaner",
+    "state": "Rajasthan",
+    "postalCode": "334003",
+    "googleMapsUrl": "https://maps.app.goo.gl/bbYmYeR8msgz61xk9",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=GetWell+Eye+Hospital%2C+Patel+Nagar%2C+Bikaner%2C+Rajasthan+334003",
+    "phone": "+91 70234 51759",
+    "secondaryPhone": "",
+    "whatsappNumber": "+91 70234 51759",
+    "email": "getwellevehospitalbikaner@gmail.com",
+    "openingHours": "Monday – Saturday: 9:00 AM – 7:00 PM | Sunday: Closed",
+    "closedDays": [
+      "Sunday"
+    ],
+    "doctor": {
+      "name": "Dr. Verified Specialist (Editable via Dashboard)",
+      "title": "Senior Consultant Ophthalmologist & Eye Surgeon",
+      "qualifications": "MBBS, MS (Ophthalmology), Fellow in Anterior Segment Surgery",
+      "experience": "15+ Years of Dedicated Clinical Practice",
+      "bio": "Dedicated to compassionate, modern vision care in Bikaner. Specialized in phacoemulsification cataract assessment, precise refraction, glaucoma management, and comprehensive anterior segment evaluations.",
+      "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=800&q=80",
+      "isVerified": true
+    },
+    "services": [
+      {
+        "id": "srv-1",
+        "title": "Comprehensive Eye Examination",
+        "description": "Computerized automated refraction, slit-lamp bio-microscopy, intraocular pressure check, and visual acuity evaluation for patients of all ages.",
+        "icon": "Eye",
+        "isVerified": true
+      },
+      {
+        "id": "srv-2",
+        "title": "Cataract Evaluation & IOL Assessment",
+        "description": "Pre-operative optical biometry, keratometry, modern intraocular lens counseling, and micro-incision phacoemulsification evaluation.",
+        "icon": "Sparkles",
+        "isVerified": true
+      },
+      {
+        "id": "srv-3",
+        "title": "Glaucoma Screening & Pressure Checks",
+        "description": "Goldmann applanation tonometry, central corneal thickness assessment, optic disc evaluation, and long-term intraocular tension monitoring.",
+        "icon": "Activity",
+        "isVerified": true
+      },
+      {
+        "id": "srv-4",
+        "title": "Retina & Diabetic Eye Screening",
+        "description": "Dilated funduscopy, diabetic retinopathy risk evaluation, hypertensive retinopathy screening, and timely retinal referral coordination.",
+        "icon": "ShieldCheck",
+        "isVerified": true
+      },
+      {
+        "id": "srv-5",
+        "title": "Refractive Error & Pediatric Vision",
+        "description": "Pediatric vision screening, amblyopia management, accurate spectacle prescription, and progressive myopia counseling.",
+        "icon": "Glasses",
+        "isVerified": true
+      },
+      {
+        "id": "srv-6",
+        "title": "Dry Eye & Computer Vision Care",
+        "description": "Tear breakup time diagnostics, ocular surface soothing therapy, digital eye strain mitigation, and lubricating regimen guidance.",
+        "icon": "HeartPulse",
+        "isVerified": true
+      }
+    ],
+    "gallery": [
+      {
+        "id": "gal-1",
+        "title": "Hospital Storefront & Entrance",
+        "category": "exterior",
+        "imageUrl": "/src/assets/images/hospital_exterior_1792061017657.jpg",
+        "altText": "GetWell Eye Hospital & Optical storefront on New Shivbari Road next to S.K. Medicose in Patel Nagar, Bikaner"
+      },
+      {
+        "id": "gal-2",
+        "title": "Computerized Refraction & Diagnostics",
+        "category": "equipment",
+        "imageUrl": "/src/assets/images/refraction_room_1792061055981.jpg",
+        "altText": "Optometrist specialist conducting automated refraction eye examination with trial lens case"
+      },
+      {
+        "id": "gal-3",
+        "title": "Patient Waiting Corridor & Cabins",
+        "category": "interior",
+        "imageUrl": "/src/assets/images/waiting_lounge_1792061097553.jpg",
+        "altText": "Clean hospital waiting lounge with comfortable bench seating and doctor consultation suites"
+      }
+    ]
+  },
+  "appointments": [
+    {
+      "patientName": "Deepak Choudhary",
+      "phoneNumber": "9414433221",
+      "cleanPhoneNumber": "+91 94144 33221",
+      "requestedDate": "2026-10-20",
+      "visitReason": "Cataract surgery consultation and IOL discussion",
+      "id": "GW-261015-1783",
+      "status": "Pending",
+      "createdAt": "2026-10-15T09:22:42.098Z",
+      "updatedAt": "2026-10-15T09:22:42.098Z"
+    },
+    {
+      "patientName": "Test Patient",
+      "phoneNumber": "9829012345",
+      "cleanPhoneNumber": "+91 98290 12345",
+      "requestedDate": "2026-10-19",
+      "visitReason": "Cataract consultation",
+      "id": "GW-261015-9036",
+      "status": "Pending",
+      "createdAt": "2026-10-15T09:18:43.091Z",
+      "updatedAt": "2026-10-15T09:18:43.091Z"
+    },
+    {
+      "id": "GW-M2K8P-1042",
+      "patientName": "Sunita Meena",
+      "phoneNumber": "+91 98290 44211",
+      "cleanPhoneNumber": "+91 98290 44211",
+      "requestedDate": "2026-10-19",
+      "visitReason": "Blurry distance vision and headache after computer screen use",
+      "status": "Confirmed",
+      "createdAt": "2026-10-13T09:18:14.898Z",
+      "updatedAt": "2026-10-14T09:18:14.899Z"
+    },
+    {
+      "id": "GW-M2K8P-2089",
+      "patientName": "Rajendra Singh Bhati",
+      "phoneNumber": "+91 94141 88923",
+      "cleanPhoneNumber": "+91 94141 88923",
+      "requestedDate": "2026-10-20",
+      "visitReason": "Senior citizen cataract evaluation and reading glasses review",
+      "status": "Pending",
+      "createdAt": "2026-10-15T04:18:14.899Z",
+      "updatedAt": "2026-10-15T04:18:14.899Z"
+    },
+    {
+      "id": "GW-M2K8P-3312",
+      "patientName": "Priya Joshi",
+      "phoneNumber": "+91 97845 11209",
+      "cleanPhoneNumber": "+91 97845 11209",
+      "requestedDate": "2026-10-21",
+      "visitReason": "Dry eyes, burning sensation, and routine refractive check",
+      "status": "Pending",
+      "createdAt": "2026-10-15T07:18:14.899Z",
+      "updatedAt": "2026-10-15T07:18:14.899Z"
+    }
+  ],
+  "adminUsers": [
+    {
+      "id": "admin-1",
+      "email": "admin@getwelleyehospital.com",
+      "passwordHash": "89640d66f534bd98d318ca16c4198aa5188c713feb56f28f261128f42dbae59b6720d586c510f112c99ab12acf86c8afcf13a03deb75f26830dee4b8609a0480",
+      "passwordSalt": "95152cec971c4810ed9cc5f452a04fda",
+      "name": "Hospital Administrator"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "586c1c018c236d0567ec4766ed457bff09bb3340e79f6d9c9abae4ceb6e87ef8",
+      "email": "admin@getwelleyehospital.com",
+      "expiresAt": 1792660991291
+    },
+    {
+      "token": "00f08cde04fa9f60572e8f2ddc07c66ca359afda7e20ad2105bc5199321d0d5f",
+      "email": "admin@getwelleyehospital.com",
+      "expiresAt": 1792661043843
+    }
+  ]
+}
